@@ -5,7 +5,7 @@ setup(name='PyRoxy',
       packages=['PyRoxy', 'PyRoxy.GeoIP', 'PyRoxy.Tools', 'PyRoxy.Exceptions'],
       url='https://github.com/armanjumal22/PyRoxy',
       license='MIT',
-      author="MH_ProDev",
+      author="Dexter Eskalarte",
       install_requires=[
           "maxminddb>=2.2.0", "requests>=2.27.1", "yarl>=1.7.2",
           "pysocks>=1.7.1"
